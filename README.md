@@ -12,14 +12,7 @@
 
 ---
 
-### 🛠️ Skills
 
-- **Languages:** Python, C++, SQL  
-- **Libraries/Tools:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras  
-- **Technologies:** Machine Learning, Computer Vision, Natural Language Processing  
-- **Others:** Git, Jupyter, VS Code, Gradio, LangChain, Hugging Face
-
----
 
 ### 🚀 What I'm Working On
 
@@ -31,9 +24,9 @@
 
 ### 📫 Let's Connect
 
-- ✉️ Email: mohitagg07@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/mohitagg07)  
-- 🧑‍💻 [GitHub](https://github.com/mohitagg07)
+- ✉️ Email: mohitaggarwal2003@gmail.com  
+- 💼 [LinkedIn]([https://linkedin.com/in/mohitagg07](https://www.linkedin.com/in/mohit-aggarwal-8041b9242/))  
+
 
 ---
 
