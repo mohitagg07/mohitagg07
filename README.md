@@ -25,7 +25,7 @@
 ### 📫 Let's Connect
 
 - ✉️ Email: mohitaggarwal2003@gmail.com  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/mohit-aggarwal-8041b9242/])  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohit-aggarwal-8041b9242/)  
 
 
 ---
