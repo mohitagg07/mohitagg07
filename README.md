@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohit Aggarwal (@mohitagg07)
 
-🎯 **Aspiring Machine Learning Engineer | Python Developer | Tech Enthusiast**
+🎯 **Aspiring Machine Learning Engineer | Python Developer | C++ Developer| Tech Enthusiast**
 
 ---
 
