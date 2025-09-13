@@ -27,6 +27,7 @@
 ✋ AI-Resistant Gesture-Based CAPTCHA → Developing a secure, user-friendly CAPTCHA using TensorFlow.js & OpenCV.
 
 ☕ SmartCafe 360 → Full-stack café management system with ML-driven sales prediction.
+
 ---
 
 ### 🛠 Tech Stack
