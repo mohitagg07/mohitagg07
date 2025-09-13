@@ -6,9 +6,13 @@
 
 ### 🔍 About Me
 
-- 👨‍💻 I’m passionate about **coding** and solving real-world problems through technology.
-- 🧠 Currently exploring the world of **Machine Learning**, **AI**, and **Deep Learning**.
-- 🌱 I’m committed to continuous learning and building impactful projects.
+👨‍💻 Passionate about building impactful software and solving real-world problems through technology.
+
+🧠 Skilled in C++, Python, and AI/ML with hands-on experience in deep learning, NLP, and GenAI.
+
+🚀 Strong foundation in Data Structures, Algorithms, OOP, and Databases.
+
+🌱 Constantly exploring new technologies and contributing to innovative projects.
 
 ---
 
@@ -16,9 +20,24 @@
 
 ### 🚀 What I'm Working On
 
-- 🤖 Building AI-powered mental health applications using LLaMA-3 and CNN.
-- 📊 Data analysis and visualization projects.
-- 💡 Contributing to open-source ML projects.
+⚖️ Generative AI Legal Document Demystifier → Simplifying complex contracts into plain language using LLaMA-3, Gemini API, and NLP.
+
+🧠 MindCare (AI Mental Health Chatbot) → Building an ethical chatbot with facial expression recognition (CNN) and clinical questionnaires.
+
+✋ AI-Resistant Gesture-Based CAPTCHA → Developing a secure, user-friendly CAPTCHA using TensorFlow.js & OpenCV.
+
+☕ SmartCafe 360 → Full-stack café management system with ML-driven sales prediction.
+---
+
+### 🛠 Tech Stack
+
+Languages: C++, Python, Java, SQL
+
+Web Development: React.js, Spring Boot, HTML, CSS, JavaScript
+
+AI/ML: LLaMA, Gemini API, TensorFlow.js, OpenCV, ChromaDB
+
+Cloud & Tools: Google Cloud, FastAPI, Git, Docker
 
 ---
 
@@ -27,6 +46,16 @@
 - ✉️ Email: mohitaggarwal2003@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohit-aggarwal-8041b9242/)  
 
+
+---
+### 🏆 Experience
+Software Development Intern @ Berger Paints (2023)
+
+Built analytics features with React, HTML, CSS.
+
+Integrated AI/ML model insights into a real-time dashboard.
+
+Improved frontend performance & reusability in an Agile team.
 
 ---
 
