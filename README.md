@@ -52,11 +52,11 @@ Cloud & Tools: Google Cloud, FastAPI, Git, Docker
 ### 🏆 Experience
 Software Development Intern @ Berger Paints (2023)
 
-Built analytics features with React, HTML, CSS.
+-Built analytics features with React, HTML, CSS.
 
-Integrated AI/ML model insights into a real-time dashboard.
+-Integrated AI/ML model insights into a real-time dashboard.
 
-Improved frontend performance & reusability in an Agile team.
+-Improved frontend performance & reusability in an Agile team.
 
 ---
 
