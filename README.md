@@ -1,18 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1117,60:161b22,100:0d1117&height=0&section=header" width="100%"/>
-
-<!-- DYNAMIC BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,40:1a1a3e,70:302b63,100:24243e&height=220&section=header&text=Mohit%20Aggarwal&fontSize=68&fontColor=e2d9f3&fontAlignY=45&desc=ML%20Engineer%20%E2%80%A2%20GenAI%20Builder%20%E2%80%A2%20Full-Stack%20Dev&descAlignY=67&descSize=17&animation=scaleIn&stroke=a78bfa&strokeWidth=1" width="100%"/>
 
 <br/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&lines=Building+AI+that+actually+solves+real+problems+%F0%9F%A7%A0;LLMs+%E2%80%A2+Deep+Learning+%E2%80%A2+RAG+%E2%80%A2+GenAI+%E2%80%A2+NLP;Fine-tuning+models+%26+shipping+multimodal+systems;Open+to+collaborate+%E2%80%94+let%27s+build+something+legendary+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+AI+that+actually+solves+real+problems+%F0%9F%A7%A0;LLMs+%E2%80%A2+Deep+Learning+%E2%80%A2+RAG+%E2%80%A2+GenAI+%E2%80%A2+NLP;Fine-tuning+models+%26+shipping+multimodal+systems;Open+to+collaborate+%E2%80%94+let%27s+build+something+legendary+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/mohit-aggarwal-8041b9242/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -28,7 +23,6 @@
 
 <br/><br/>
 
-<!-- PROFILE METRICS ROW -->
 ![Profile Views](https://komarev.com/ghpvc/?username=mohitagg07&color=7c3aed&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/mohitagg07?style=flat-square&color=7c3aed&label=Followers)
 ![GitHub stars](https://img.shields.io/github/stars/mohitagg07?style=flat-square&color=7c3aed&label=Total+Stars)
@@ -36,8 +30,6 @@
 </div>
 
 <br/>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -49,14 +41,15 @@
 
 class MohitAggarwal:
     """
-    Aspiring ML Engineer crafting intelligent systems that bridge
-    research and real-world impact.
+    CS Graduate (AI & ML) — building end-to-end AI systems
+    that bridge cutting-edge research and real-world impact.
     """
 
     def __init__(self):
         self.name         = "Mohit Aggarwal"
+        self.degree       = "B.Tech CSE (AI & ML) — VIT Chennai, 2025"
         self.role         = ["ML Engineer", "GenAI Builder", "Full-Stack Developer"]
-        self.location     = "India 🇮🇳"
+        self.location     = "Jammu, India 🇮🇳"
         self.languages    = ["Python", "C++", "Java", "JavaScript", "SQL"]
         self.ai_stack     = ["LLaMA-3", "Gemini API", "TensorFlow", "OpenCV", "ChromaDB"]
         self.web_stack    = ["React.js", "Spring Boot", "FastAPI", "Docker"]
@@ -95,45 +88,43 @@ OUTPUT ────────────────────────�
 <tr>
 <td width="50%" valign="top">
 
-<h3>⚖️ Legal Doc Demystifier</h3>
+<h3>⚖️ <a href="https://github.com/mohitagg07/legal-doc-demystifier">Legal Doc Demystifier</a></h3>
 
-> **Transforms dense legal contracts into crystal-clear plain language using production-grade LLM pipelines.**
+> **Full-stack AI platform that transforms dense legal contracts into plain-language summaries with clause risk detection.**
 
 ```
 Tech Stack
-├── LLaMA-3         (core model)
-├── Gemini API      (multi-model layer)
-├── ChromaDB        (vector store)
-├── FastAPI         (backend)
-└── NLP pipelines   (clause extraction)
+├── React.js + FastAPI   (full-stack)
+├── Gemini API           (LLM core)
+├── Google Document AI   (OCR engine)
+├── Google Cloud Run     (deployment)
+└── Mermaid.js + D3.js   (visualizations)
 ```
 
-**Features**
-- 🔍 RAG pipeline for precision document Q&A
-- 📄 Multi-clause summarization with context retention
-- 🚨 Legal risk scoring & red-flag detection
-- ⚡ Sub-3s response latency via async chunking
+**Highlights**
+- 🏗️ OCR + Document AI clause extraction with **95% accuracy** — renders interactive contract timelines via Mermaid.js & D3.js
+- 🔍 RAG pipeline on Indian Kanoon corpus with AI safety filter blocking advisory outputs — cuts review time by **30%**
+- 🎙️ Multi-modal engine: plain-English summaries + visual diagrams + Google Cloud TTS audio from a single upload
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🧠 MindCare — AI Mental Health Chatbot</h3>
+<h3>🧠 <a href="https://github.com/mohitagg07/Mindcare">MindCare — AI Mental Health Chatbot</a></h3>
 
-> **Ethical AI companion with real-time emotion sensing via facial recognition & clinical NLP.**
+> **Intelligent mental health companion powered by LLaMA 3 with real-time facial emotion detection.**
 
 ```
 Tech Stack
-├── CNN             (facial expression model)
-├── Clinical NLP    (DSM-aligned dialogue)
-├── Python          (backend logic)
-└── React           (frontend UI)
+├── LLaMA-3         (core conversational model)
+├── ChromaDB        (context-aware vector memory)
+├── CNN             (facial expression recognition)
+└── Python          (backend + CV pipeline)
 ```
 
-**Features**
-- 😶 Real-time facial expression recognition (7 classes)
-- 📋 DSM-5 aligned adaptive questionnaire flow
-- 🆘 Crisis escalation with safe fallback protocol
-- 🔒 Privacy-first: no data persistence
+**Highlights**
+- 🤖 Context-aware chatbot using LLaMA 3 + ChromaDB for evidence-based, memory-persistent mental health responses
+- 😶 CNN model for real-time facial expression recognition achieving **90% accuracy** in emotion detection
+- 🔗 Fused NLP + computer vision — text sentiment & live facial cues processed together for empathetic, tailored replies
 
 </td>
 </tr>
@@ -152,33 +143,31 @@ Tech Stack
 └── JavaScript      (CAPTCHA engine)
 ```
 
-**Features**
-- 🖐️ Real-time gesture classification (21 landmarks)
-- 🤖 Resistant to selenium & headless-bot automation
-- ♿ Accessibility-first: alternative gesture modes
-- 🌐 Zero-server-side inference (fully client-side)
+**Highlights**
+- 🖐️ Real-time gesture classification using 21 hand landmarks via MediaPipe
+- 🤖 Resistant to Selenium & headless-bot automation — zero server-side inference
+- ♿ Accessibility-first design with alternative gesture modes
 
 </td>
 <td width="50%" valign="top">
 
 <h3>☕ SmartCafe 360</h3>
 
-> **Full-stack café OS with ML-powered demand forecasting & live analytics.**
+> **Full-stack café management OS with ML-powered demand forecasting & live analytics.**
 
 ```
 Tech Stack
 ├── React           (SPA frontend)
 ├── Spring Boot     (REST API)
-├── ML Models       (sales forecasting)
+├── ML Models       (ARIMA + Random Forest)
 ├── SQL             (relational DB)
 └── Docker          (containerized deploy)
 ```
 
-**Features**
-- 📦 Real-time order & inventory management
-- 📈 Predictive demand forecasting (ARIMA + RF)
-- 📊 Admin analytics dashboard with live KPIs
-- 🐳 One-command Docker deployment
+**Highlights**
+- 📦 Real-time order & inventory management with live KPI dashboard
+- 📈 Predictive demand forecasting using ARIMA + Random Forest models
+- 🐳 Fully containerized — one-command Docker deployment to production
 
 </td>
 </tr>
@@ -255,29 +244,36 @@ Cloud / DevOps       ████████████░░░░░░░�
 
 ```
 commit a3f91bc  (HEAD -> main)
-Date:   2023 — Present
+Date:   Aug 2023 – Dec 2023
 Author: Mohit Aggarwal <mohitaggarwal2003@gmail.com>
 
-    🎨  SDE Intern — Berger Paints India Ltd.
+    🎨  Software Development Intern — Berger Paints India Ltd., Jammu
 
-    • Built analytics features with React, HTML & CSS for internal
-      stakeholder dashboards that shipped to production
-    • Integrated AI/ML model insights into a live dashboard, bridging
-      the gap between data science and product teams
-    • Improved frontend performance & component reusability inside
-      a fast-paced Agile scrum environment
-    • Collaborated with cross-functional teams across design, backend,
-      and data verticals
+    • Engineered 6+ user-facing features & 8+ reusable React.js components
+      for internal stakeholder dashboards, improving page load by 15%
+    • Partnered with the data science team to embed AI/ML insights into a
+      live analytics dashboard — visualizing 10,000+ records & cutting
+      reporting time by 25%
+    • Delivered end-to-end across 4 Agile sprints — from requirements
+      gathering & UI design through to testing & production deployment
 
 commit e7d2a01  (origin/learning)
 Author: Mohit Aggarwal
-    
+
     🧪  Currently Exploring
 
     • Multi-agent LLM systems & tool-calling architectures
-    • LLM fine-tuning (LoRA / QLoRA) on domain-specific datasets  
+    • LLM fine-tuning (LoRA / QLoRA) on domain-specific datasets
     • Multimodal AI: text + vision fusion pipelines
     • Retrieval-Augmented Generation (RAG) at scale
+
+commit f1a0c33  (origin/certs)
+Author: Mohit Aggarwal
+
+    📜  Certifications
+
+    • Tata Cybersecurity Security Analyst Simulation — Forage (Aug 2025)
+    • Python 3.4.3 Training & Certification — IIT Bombay (Feb 2022)
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -364,6 +360,3 @@ Status  : ONLINE ✅ | Mode: BUILD 🔨 | Vibe: FOCUSED 🎯
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&text=Keep+Building.+Keep+Shipping.+Keep+Learning.&fontSize=16&fontColor=a78bfa&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 </div>
-
-<!-- Snake animation — enable via GitHub Actions workflow -->
-<!-- <img src="https://raw.githubusercontent.com/mohitagg07/mohitagg07/output/github-contribution-grid-snake-dark.svg" width="100%"/> -->
